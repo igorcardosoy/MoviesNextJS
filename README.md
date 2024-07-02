@@ -1,9 +1,4 @@
-ADM LOGIN
 
-```bash
-email: email@email.com
-password: 12345678
-```
 
 ## Getting Started
 
@@ -32,4 +27,11 @@ NEXT_PUBLIC_API_PUBLIC_BASE_URL=
 
 The TMDB API key is from [The Movie Database](https://www.themoviedb.org/documentation/api)
 
-The API url is from [Movies API](aaaa)
+The API url is from [Movies API](https://github.com/igorcardosoy/MovieJsonServerAPI)
+
+ADM LOGIN
+
+```bash
+email: email@email.com
+password: 12345678
+```
