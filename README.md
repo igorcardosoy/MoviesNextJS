@@ -67,9 +67,9 @@ NEXT_PUBLIC_API_PUBLIC_BASE_URL=
 - `NEXT_PUBLIC_TMDB_PUBLIC_KEY`: Your API key from [The Movie Database](https://www.themoviedb.org/documentation/api)
 - `NEXT_PUBLIC_TMDB_PUBLIC_BASE_URL`: The base URL for TMDB API
 - `NEXT_PUBLIC_TMDB_PUBLIC_IMAGE_BASE_URL`: The base URL for TMDB images
-- `NEXT_PUBLIC_API_PUBLIC_BASE_URL`: The base URL for your API ([Movies API](https://github.com/igorcardosoy/MovieJsonServerAPI))
+- `NEXT_PUBLIC_API_PUBLIC_BASE_URL`: The base URL for your API [Movies API](https://github.com/igorcardosoy/MovieJsonServerAPI)
 
-### Admin Login
+### Admin Login for [Movies API](https://github.com/igorcardosoy/MovieJsonServerAPI)
 
 Use the following credentials to log in as an admin:
 
