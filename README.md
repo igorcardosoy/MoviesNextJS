@@ -1,5 +1,7 @@
 ## Getting Started
 
+Vercel Deploy: [MoviesNextJS](https://movies-next-js-six.vercel.app/)
+
 ### Technologies Used
 
 - [**Next.js**](https://nextjs.org/)
