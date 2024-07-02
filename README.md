@@ -1,5 +1,12 @@
 ## Getting Started
 
+### Technologies Used
+
+- [**Next.js**](https://nextjs.org/)
+- [**TypeScript**](https://www.typescriptlang.org/)
+- [**Tailwind CSS**](https://tailwindcss.com/)
+- [**DaisyUI**](https://daisyui.com/)
+
 ### Prerequisites
 
 Ensure you have the following installed on your development machine:
@@ -69,8 +76,4 @@ email: email@email.com
 password: 12345678
 ```
 
-### Technologies Used
 
-- **Next.js**: React framework for server-side rendering and generating static websites.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **TypeScript**: Typed JavaScript for better code quality and developer experience.
