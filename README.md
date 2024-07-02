@@ -1,10 +1,3 @@
-ADM LOGIN
-
-```bash
-email: email@email.com
-password: 12345678
-```
-
 ## Getting Started
 
 First, run the development server:
