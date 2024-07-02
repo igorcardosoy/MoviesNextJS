@@ -19,7 +19,7 @@ export const alert = (message: string) => {
 }
 
 
-const loginPage = () => {
+const LoginPage = () => {
 
   const router = useRouter()
 
@@ -63,4 +63,4 @@ const loginPage = () => {
   )
 }
 
-export default loginPage
+export default LoginPage
